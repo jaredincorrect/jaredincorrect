@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jaredincorrect
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on something special.
+- 📫 How to reach me? padronjaredwynne@gmail.com
